@@ -1,0 +1,28 @@
+# Binaries & Executables
+*.exe
+*.out
+*.bin
+*.app
+*.o
+*.obj
+
+# Competitive Companion / CPH (test cases & cache)
+.cph/
+*.prob
+
+# Input / Output temporary files
+input.txt
+output.txt
+*.in
+*.ans
+
+# VS Code & IDE files
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS generated files
+Thumbs.db
+.DS_Store
